@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cache and temporary directories
+.cache/
+workspace/
+outputs/
+.pytest_cache/
+
+# Streamlit
+.streamlit/
+
+# Environment secrets
+.env
+.env.*
+.env.local
